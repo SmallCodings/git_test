@@ -1,0 +1,1 @@
+This is SmallCoding's first git project!
